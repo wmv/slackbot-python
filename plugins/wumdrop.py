@@ -3,15 +3,21 @@ import re
 from urllib import quote
 import requests
 
-def ask_wumdrop(query):
-    
-    return ":crying_cat_face: Sorry, WumDrop doesn't have an answer for you :crying_cat_face:"
+base_url = 'https://wumdrop.appspot.com/slack/do'
+def send_request(message):
+    argstr = quote(message)
+    result = requests.get(base_url+'?text='+argstr)
+    return result
 
-    return answer
+def ask_wumdrop(query):
+    result = send_request(query)
+    if result.status_code != requests.codes.ok:
+        return ":crying_cat_face: Sorry, WumDrop doesn't have an answer for you :crying_cat_face:"
+    return result.text
 
 def on_message(msg, server):
     text = msg.get("text", "")
-    match = re.findall(r"!calc (.*)", text)
+    match = re.findall(r"!wd (.*)", text)
     if not match: return
 
-    return calc(match[0])
+    return ask_wumdrop(match[0])
