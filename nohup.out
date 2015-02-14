@@ -1,0 +1,198 @@
+2015-02-14 10:47:48,141:DEBUG:plugin: plugins/calc.py
+2015-02-14 10:47:48,197:DEBUG:attaching calc.<function on_message at 0x7fd8e0420140> to message
+2015-02-14 10:47:48,197:DEBUG:plugin: plugins/emojicodedict.py
+2015-02-14 10:47:48,198:DEBUG:plugin: plugins/emoji.py
+2015-02-14 10:47:48,198:DEBUG:attaching emoji.<function on_message at 0x7fd8e0420320> to message
+2015-02-14 10:47:48,198:DEBUG:plugin: plugins/image.py
+2015-02-14 10:47:48,198:DEBUG:attaching image.<function on_message at 0x7fd8e0420398> to message
+2015-02-14 10:47:48,198:DEBUG:plugin: plugins/genesis.py
+2015-02-14 10:47:48,198:DEBUG:attaching genesis.<function on_message at 0x7fd8e0420488> to message
+2015-02-14 10:47:48,198:DEBUG:plugin: plugins/stockphoto.py
+2015-02-14 10:47:48,198:DEBUG:attaching stockphoto.<function on_message at 0x7fd8e0420578> to message
+2015-02-14 10:47:48,198:DEBUG:plugin: plugins/weather.py
+2015-02-14 10:47:48,199:DEBUG:attaching weather.<function on_message at 0x7fd8e0420668> to message
+2015-02-14 10:47:48,199:DEBUG:plugin: plugins/flip.py
+2015-02-14 10:47:48,199:DEBUG:attaching flip.<function on_message at 0x7fd8e0420848> to message
+2015-02-14 10:47:48,199:DEBUG:plugin: plugins/gif.py
+2015-02-14 10:47:48,199:DEBUG:attaching gif.<function on_message at 0x7fd8e04209b0> to message
+2015-02-14 10:47:48,199:DEBUG:plugin: plugins/help.py
+2015-02-14 10:47:48,199:DEBUG:attaching help.<function on_message at 0x7fd8e0420aa0> to message
+2015-02-14 10:47:48,199:DEBUG:plugin: plugins/youtube.py
+2015-02-14 10:47:48,200:DEBUG:attaching youtube.<function on_message at 0x7fd8e0420c80> to message
+2015-02-14 10:47:48,200:DEBUG:plugin: plugins/wiki.py
+2015-02-14 10:47:48,200:DEBUG:attaching wiki.<function on_message at 0x7fd8e0420d70> to message
+2015-02-14 10:47:48,200:DEBUG:plugin: plugins/google.py
+2015-02-14 10:47:48,200:DEBUG:attaching google.<function on_message at 0x7fd8e0420ed8> to message
+2015-02-14 10:47:48,200:DEBUG:plugin: plugins/map.py
+2015-02-14 10:47:48,200:DEBUG:attaching map.<function on_message at 0x7fd8e03bc050> to message
+2015-02-14 10:47:48,200:DEBUG:plugin: plugins/stock.py
+2015-02-14 10:47:48,200:DEBUG:attaching stock.<function on_message at 0x7fd8e03bc1b8> to message
+2015-02-14 10:47:49,834:DEBUG:got hello
+2015-02-14 10:47:49,835:DEBUG:got message
+2015-02-14 10:49:05,924:DEBUG:got message
+2015-02-14 10:49:07,927:DEBUG:got im_marked
+2015-02-14 10:49:44,926:DEBUG:plugin: plugins/calc.py
+2015-02-14 10:49:44,985:DEBUG:attaching calc.<function on_message at 0x7f87c0903140> to message
+2015-02-14 10:49:44,985:DEBUG:plugin: plugins/emojicodedict.py
+2015-02-14 10:49:44,985:DEBUG:plugin: plugins/emoji.py
+2015-02-14 10:49:44,985:DEBUG:attaching emoji.<function on_message at 0x7f87c0903320> to message
+2015-02-14 10:49:44,985:DEBUG:plugin: plugins/image.py
+2015-02-14 10:49:44,986:DEBUG:attaching image.<function on_message at 0x7f87c0903398> to message
+2015-02-14 10:49:44,986:DEBUG:plugin: plugins/genesis.py
+2015-02-14 10:49:44,986:DEBUG:attaching genesis.<function on_message at 0x7f87c0903488> to message
+2015-02-14 10:49:44,986:DEBUG:plugin: plugins/stockphoto.py
+2015-02-14 10:49:44,986:DEBUG:attaching stockphoto.<function on_message at 0x7f87c0903578> to message
+2015-02-14 10:49:44,986:DEBUG:plugin: plugins/weather.py
+2015-02-14 10:49:44,986:DEBUG:attaching weather.<function on_message at 0x7f87c0903668> to message
+2015-02-14 10:49:44,986:DEBUG:plugin: plugins/flip.py
+2015-02-14 10:49:44,986:DEBUG:attaching flip.<function on_message at 0x7f87c0903848> to message
+2015-02-14 10:49:44,987:DEBUG:plugin: plugins/gif.py
+2015-02-14 10:49:44,987:DEBUG:attaching gif.<function on_message at 0x7f87c09039b0> to message
+2015-02-14 10:49:44,987:DEBUG:plugin: plugins/help.py
+2015-02-14 10:49:44,987:DEBUG:attaching help.<function on_message at 0x7f87c0903aa0> to message
+2015-02-14 10:49:44,987:DEBUG:plugin: plugins/youtube.py
+2015-02-14 10:49:44,987:DEBUG:attaching youtube.<function on_message at 0x7f87c0903c80> to message
+2015-02-14 10:49:44,987:DEBUG:plugin: plugins/wiki.py
+2015-02-14 10:49:44,987:DEBUG:attaching wiki.<function on_message at 0x7f87c0903d70> to message
+2015-02-14 10:49:44,987:DEBUG:plugin: plugins/google.py
+2015-02-14 10:49:44,988:DEBUG:attaching google.<function on_message at 0x7f87c0903ed8> to message
+2015-02-14 10:49:44,988:DEBUG:plugin: plugins/map.py
+2015-02-14 10:49:44,988:DEBUG:attaching map.<function on_message at 0x7f87c089f050> to message
+2015-02-14 10:49:44,988:DEBUG:plugin: plugins/stock.py
+2015-02-14 10:49:44,988:DEBUG:attaching stock.<function on_message at 0x7f87c089f1b8> to message
+2015-02-14 10:49:46,587:DEBUG:got hello
+2015-02-14 10:49:46,587:DEBUG:got message
+2015-02-14 10:49:58,987:DEBUG:got message
+2015-02-14 10:49:59,602:DEBUG:got message
+2015-02-14 10:50:02,606:DEBUG:got im_marked
+2015-02-14 10:50:02,992:DEBUG:got im_marked
+2015-02-14 10:52:14,145:DEBUG:got message
+2015-02-14 10:52:14,760:DEBUG:got message
+2015-02-14 10:52:17,764:DEBUG:got im_marked
+2015-02-14 10:52:18,150:DEBUG:got im_marked
+2015-02-14 10:52:49,801:DEBUG:got message
+2015-02-14 10:52:50,189:DEBUG:got message
+2015-02-14 10:52:54,194:DEBUG:got im_marked
+2015-02-14 10:52:54,808:DEBUG:got im_marked
+2015-02-14 10:54:13,254:DEBUG:plugin: plugins/calc.py
+2015-02-14 10:54:13,310:DEBUG:attaching calc.<function on_message at 0x7f698156b140> to message
+2015-02-14 10:54:13,310:DEBUG:plugin: plugins/emojicodedict.py
+2015-02-14 10:54:13,311:DEBUG:plugin: plugins/emoji.py
+2015-02-14 10:54:13,311:DEBUG:attaching emoji.<function on_message at 0x7f698156b320> to message
+2015-02-14 10:54:13,311:DEBUG:plugin: plugins/image.py
+2015-02-14 10:54:13,311:DEBUG:attaching image.<function on_message at 0x7f698156b398> to message
+2015-02-14 10:54:13,311:DEBUG:plugin: plugins/genesis.py
+2015-02-14 10:54:13,311:DEBUG:attaching genesis.<function on_message at 0x7f698156b488> to message
+2015-02-14 10:54:13,311:DEBUG:plugin: plugins/stockphoto.py
+2015-02-14 10:54:13,311:DEBUG:attaching stockphoto.<function on_message at 0x7f698156b578> to message
+2015-02-14 10:54:13,311:DEBUG:plugin: plugins/weather.py
+2015-02-14 10:54:13,312:DEBUG:attaching weather.<function on_message at 0x7f698156b668> to message
+2015-02-14 10:54:13,312:DEBUG:plugin: plugins/flip.py
+2015-02-14 10:54:13,312:DEBUG:attaching flip.<function on_message at 0x7f698156b848> to message
+2015-02-14 10:54:13,312:DEBUG:plugin: plugins/gif.py
+2015-02-14 10:54:13,312:DEBUG:attaching gif.<function on_message at 0x7f698156b9b0> to message
+2015-02-14 10:54:13,312:DEBUG:plugin: plugins/help.py
+2015-02-14 10:54:13,312:DEBUG:attaching help.<function on_message at 0x7f698156baa0> to message
+2015-02-14 10:54:13,312:DEBUG:plugin: plugins/youtube.py
+2015-02-14 10:54:13,312:DEBUG:attaching youtube.<function on_message at 0x7f698156bc80> to message
+2015-02-14 10:54:13,312:DEBUG:plugin: plugins/wiki.py
+2015-02-14 10:54:13,313:DEBUG:attaching wiki.<function on_message at 0x7f698156bd70> to message
+2015-02-14 10:54:13,313:DEBUG:plugin: plugins/google.py
+2015-02-14 10:54:13,313:DEBUG:attaching google.<function on_message at 0x7f698156bed8> to message
+2015-02-14 10:54:13,313:DEBUG:plugin: plugins/map.py
+2015-02-14 10:54:13,313:DEBUG:attaching map.<function on_message at 0x7f6981507050> to message
+2015-02-14 10:54:13,313:DEBUG:plugin: plugins/stock.py
+2015-02-14 10:54:13,313:DEBUG:attaching stock.<function on_message at 0x7f69815071b8> to message
+2015-02-14 10:54:17,293:DEBUG:got presence_change
+2015-02-14 10:54:17,905:DEBUG:got presence_change
+2015-02-14 10:54:18,287:DEBUG:got hello
+2015-02-14 10:54:18,287:DEBUG:got presence_change
+2015-02-14 10:54:19,290:DEBUG:got message
+2015-02-14 10:54:19,296:DEBUG:got message
+2015-02-14 10:54:19,909:DEBUG:got message
+2015-02-14 10:54:19,909:DEBUG:got message
+2015-02-14 10:54:20,294:DEBUG:got {u'reply_to': None, u'text': u'!calc &lt;equation&gt; will return the google calculator result for &lt;equation&gt;\n!emoji &lt;n&gt; will return n random emoji\n!flip [alpha,beta,gamma] - flip a coin n times or shuffle a comma separated list\n!genesis returns a random sega genesis screenshot\n!gif &lt;search term&gt; return a random result from the  google gif search result for &lt;search term&gt;\n!help [&lt;command&gt;] prints help on all commands if no command given, or a specific command\n!image &lt;search term&gt; return a random result from the google image search result for &lt;search term&gt;\n!map &lt;place&gt; return a map of place. Optional "zoom" and "maptype" parameters are accepted.\n!search &lt;query&gt; will return the top google result for that query (!google is an alias)\n!stock &lt;search term&gt; return a stock photo for &lt;search term&gt;\n!weather &lt;zip or place name&gt; return the 5-day forecast\n!wiki &lt;topic&gt; returns a wiki link for &lt;topic&gt;\n!youtube &lt;search term&gt; return the first youtube search result for &lt;search term&gt;\n$&lt;ticker symbol&gt; for a quote on a stock price', u'ok': True, u'ts': u'1423911259.000010'}
+2015-02-14 10:54:20,298:DEBUG:got message
+Traceback (most recent call last):
+  File "./slask.py", line 153, in <module>
+    main(config)
+  File "./slask.py", line 110, in main
+    response = handle_event(client, event, hooks, config)
+  File "./slask.py", line 96, in handle_event
+    return handler(client, event, hooks, config)
+  File "./slask.py", line 87, in handle_message
+    return "\n".join(run_hook(hooks, "message", event, {"client": client, "config": config, "hooks": hooks}))
+  File "./slask.py", line 67, in run_hook
+    h = hook(data, server)
+  File "/home/wilsonmc/dev/slask/plugins/weather.py", line 44, in on_message
+    return weather(searchterm)
+  File "/home/wilsonmc/dev/slask/plugins/weather.py", line 29, in weather
+    msg = ["{0}: ".format(dat["city"]["name"])]
+KeyError: 'city'
+Traceback (most recent call last):
+  File "./slask.py", line 153, in <module>
+    main(config)
+  File "./slask.py", line 110, in main
+    response = handle_event(client, event, hooks, config)
+  File "./slask.py", line 96, in handle_event
+    return handler(client, event, hooks, config)
+  File "./slask.py", line 87, in handle_message
+    return "\n".join(run_hook(hooks, "message", event, {"client": client, "config": config, "hooks": hooks}))
+  File "./slask.py", line 67, in run_hook
+    h = hook(data, server)
+  File "/home/wilsonmc/dev/slask/plugins/weather.py", line 44, in on_message
+    return weather(searchterm)
+  File "/home/wilsonmc/dev/slask/plugins/weather.py", line 29, in weather
+    msg = ["{0}: ".format(dat["city"]["name"])]
+KeyError: 'city'
+2015-02-14 10:54:27,302:DEBUG:got user_typing
+2015-02-14 10:54:32,309:DEBUG:got user_typing
+2015-02-14 10:54:36,314:DEBUG:got user_typing
+2015-02-14 10:54:36,314:DEBUG:got message
+2015-02-14 10:54:37,318:DEBUG:got {u'reply_to': None, u'text': u'<https://maps.googleapis.com/maps/api/staticmap?size=800x400&amp;markers=size:tiny%7Ccolor:0xAAAAAA%7C44%20heath%20road%20rondebosch&amp;maptype=roadmap>', u'ok': True, u'ts': u'1423911276.000012'}
+2015-02-14 10:54:37,318:DEBUG:got message
+2015-02-14 10:57:11,503:DEBUG:got presence_change
+2015-02-14 10:58:40,612:DEBUG:got presence_change
+2015-02-14 11:13:05,635:DEBUG:got presence_change
+2015-02-14 11:13:07,637:DEBUG:got user_typing
+2015-02-14 11:13:10,641:DEBUG:got user_typing
+2015-02-14 11:13:12,644:DEBUG:got message
+2015-02-14 11:13:13,646:DEBUG:got user_typing
+2015-02-14 11:13:16,650:DEBUG:got user_typing
+2015-02-14 11:13:19,654:DEBUG:got user_typing
+2015-02-14 11:13:22,658:DEBUG:got user_typing
+2015-02-14 11:13:25,661:DEBUG:got user_typing
+2015-02-14 11:13:28,665:DEBUG:got user_typing
+2015-02-14 11:13:31,669:DEBUG:got user_typing
+2015-02-14 11:13:35,674:DEBUG:got user_typing
+2015-02-14 11:13:39,679:DEBUG:got user_typing
+2015-02-14 11:13:43,685:DEBUG:got message
+2015-02-14 11:13:43,685:DEBUG:got user_typing
+2015-02-14 11:13:46,690:DEBUG:got user_typing
+2015-02-14 11:13:49,693:DEBUG:got user_typing
+2015-02-14 11:13:53,698:DEBUG:got user_typing
+2015-02-14 11:13:56,702:DEBUG:got user_typing
+2015-02-14 11:14:02,710:DEBUG:got user_typing
+2015-02-14 11:14:03,711:DEBUG:got user_typing
+2015-02-14 11:14:06,715:DEBUG:got user_typing
+2015-02-14 11:14:10,720:DEBUG:got user_typing
+2015-02-14 11:14:12,723:DEBUG:got message
+2015-02-14 11:14:14,726:DEBUG:got user_typing
+2015-02-14 11:14:17,730:DEBUG:got user_typing
+2015-02-14 11:14:20,734:DEBUG:got user_typing
+2015-02-14 11:14:23,738:DEBUG:got user_typing
+2015-02-14 11:14:27,743:DEBUG:got user_typing
+2015-02-14 11:14:32,749:DEBUG:got user_typing
+2015-02-14 11:14:34,752:DEBUG:got user_typing
+2015-02-14 11:14:38,757:DEBUG:got message
+2015-02-14 11:15:36,827:DEBUG:got presence_change
+2015-02-14 11:16:26,887:DEBUG:got user_typing
+2015-02-14 11:16:27,889:DEBUG:got message
+2015-02-14 11:16:28,892:DEBUG:got {u'reply_to': None, u'text': u'!calc &lt;equation&gt; will return the google calculator result for &lt;equation&gt;\n!emoji &lt;n&gt; will return n random emoji\n!flip [alpha,beta,gamma] - flip a coin n times or shuffle a comma separated list\n!genesis returns a random sega genesis screenshot\n!gif &lt;search term&gt; return a random result from the  google gif search result for &lt;search term&gt;\n!help [&lt;command&gt;] prints help on all commands if no command given, or a specific command\n!image &lt;search term&gt; return a random result from the google image search result for &lt;search term&gt;\n!map &lt;place&gt; return a map of place. Optional "zoom" and "maptype" parameters are accepted.\n!search &lt;query&gt; will return the top google result for that query (!google is an alias)\n!stock &lt;search term&gt; return a stock photo for &lt;search term&gt;\n!weather &lt;zip or place name&gt; return the 5-day forecast\n!wiki &lt;topic&gt; returns a wiki link for &lt;topic&gt;\n!youtube &lt;search term&gt; return the first youtube search result for &lt;search term&gt;\n$&lt;ticker symbol&gt; for a quote on a stock price', u'ok': True, u'ts': u'1423912587.000015'}
+2015-02-14 11:18:21,023:DEBUG:got user_typing
+2015-02-14 11:18:25,028:DEBUG:got user_typing
+2015-02-14 11:18:27,031:DEBUG:got message
+2015-02-14 11:22:34,330:DEBUG:got presence_change
+2015-02-14 11:23:50,419:DEBUG:got presence_change
+2015-02-14 11:28:00,716:DEBUG:got presence_change
+2015-02-14 11:29:15,804:DEBUG:got presence_change
